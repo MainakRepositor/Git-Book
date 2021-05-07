@@ -1,0 +1,28 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 40px;
+}
+
+#result
+{
+    text-align: center;
+    background:linear-gradient(#3ef12d,#74f3e8);
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 20px;
+    
+    margin-bottom: 30px;
+}
+#result img
+{
+    
+    border-radius: 50%;
+}
+#result li
+{
+    list-style: none;
+}
